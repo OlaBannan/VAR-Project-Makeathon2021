@@ -1,6 +1,8 @@
-# 🔰 Var-project-makeathon2021 🔰
+# 🔰 VAR-project-makeathon2021 🔰
 
 [![](https://img.shields.io/badge/author-@OlaBannan-blue.svg?style=flat)](www.linkedin.com/in/ola-bannan-98a667175)
+
+VAR: Virtual Air Rescue
 
 Designed and developed VAR system  using drones and computer vision, with 5-developer team among 25 teams for 36 hours. 
 
