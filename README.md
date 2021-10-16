@@ -10,7 +10,7 @@ Designed and developed VAR system  using drones and computer vision, with 5-deve
 moves next using drones, so they can swiftly make decisions about where crews should go and who should be evacuated.
 Which could save the consumption of millions of acres of land and property in billions of dollars that could be caused by a fire.
 
-See the project presentation [here](https://www.canva.com/design/DAEo3Qzxq5o/mYQ-DYV-_FI3wKar-a1QKw/view?utm_content=DAEo3Qzxq5o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#3)
+See the project presentation [here](https://www.canva.com/design/DAEo3Qzxq5o/mYQ-DYV-_FI3wKar-a1QKw/view?utm_content=DAEo3Qzxq5o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
 <div align="center"><img src="https://drive.google.com/uc?export=view&id=1ZpFgFVu6GeECFbYJCmpdZDyG9505Ak2N" width="300" height="600"/> &nbsp;&nbsp;  <img src="https://drive.google.com/uc?export=view&id=16xWmOIgxbKYxxgZ80g-wN-hOaXQ9I9Ln" width="300" height="600" /></div> <br>
 
